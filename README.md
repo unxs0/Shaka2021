@@ -1,7 +1,7 @@
-# Shaka2021
+# Sailing Vessel Shaka
 ![](https://github.com/unxs0/Shaka2021/blob/main/Images/SHAKA.jpg)
 
-# Sailing Vessel Shaka Radar and AIS Install
+# May 2021 Radar and AIS Install
 
 ## Big Picture
 ### Broken Radar Replace
